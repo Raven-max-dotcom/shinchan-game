@@ -1,3 +1,4 @@
+
 # Shin-chan Universe: 3D Game
 
 A 3D-style Shin-chan game built with Pygame.
@@ -8,8 +9,10 @@ This is a fan-made game based on the popular cartoon "Crayon Shin-chan". It feat
 ## Installation
 1. Install Python 3.7 or higher from [python.org](https://www.python.org/downloads/)
 2. Install Pygame:
+pip install pygame
 3. Download the game files
 4. Run the game:
+python shinchan_game.py
 
 ## How to Play
 - Select a character (Shin, Misae, Hiroshi, or Kazama)
